@@ -37,4 +37,5 @@ print(sum)
 ```
 
 > - Lorem ipsum dolor
+
 ![Image](https://bartek2.pythonanywhere.com/static/img/logo.png)
