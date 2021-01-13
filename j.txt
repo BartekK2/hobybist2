@@ -1,0 +1,9 @@
+cointainer na zdj
+
+display:flex;
+align-items:center;
+justify-content:center;
+wyjeb tekst z containera;
+pousuwaj niepotrzebne gówno
+
+;) jak nie działa to chuj
